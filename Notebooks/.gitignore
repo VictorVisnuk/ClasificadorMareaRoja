@@ -1,0 +1,19 @@
+# ===================================================================
+# Archivos de Datos y Documentación
+# Ignorar archivos de datos, reportes y hojas de cálculo que 
+# no deben ser versionados.
+# ===================================================================
+
+# Ignorar todos los archivos PDF
+*.pdf
+
+# Ignorar todos los archivos CSV (Valores Separados por Comas)
+*.csv
+
+# Ignorar todos los archivos de texto plano
+# (¡Cuidado! Esto podría incluir archivos como requirements.txt 
+# si no eres específico. Ver la nota abajo)
+*.txt
+
+# Ignorar todos los archivos de Excel
+*.xlsx
